@@ -1,0 +1,26 @@
+{
+  "total_samples": 1000,
+  "prompt_length": {
+    "mean": 0.0,
+    "std": 0.0,
+    "min": 0.0,
+    "max": 0.0,
+    "median": 0.0
+  },
+  "chosen_length": {
+    "mean": 112.972,
+    "std": 93.40705121135129,
+    "min": 4.0,
+    "max": 753.0,
+    "median": 90.0
+  },
+  "rejected_length": {
+    "mean": 122.168,
+    "std": 100.50427740151163,
+    "min": 8.0,
+    "max": 783.0,
+    "median": 98.0
+  },
+  "train_samples": 1000,
+  "eval_samples": 200
+}
